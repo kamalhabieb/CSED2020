@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1482997840 source:c:\users\kamal\desktop\final version 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	"minesweeper_gameplay.h"
+	"minesweeper_opencell.h"
+	"minesweeper_leaderboard.h"
+	"minesweeper_save_load.h"
+
+1482997840 c:\users\kamal\desktop\final version 2\minesweeper_gameplay.h
+
+1482998550 c:\users\kamal\desktop\final version 2\minesweeper_opencell.h
+
+1482997840 c:\users\kamal\desktop\final version 2\minesweeper_leaderboard.h
+
+1482997840 c:\users\kamal\desktop\final version 2\minesweeper_save_load.h
+
